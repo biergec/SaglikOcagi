@@ -1,0 +1,66 @@
+c:\users\mustafa\documents\visual studio 2015\Projects\SaglikOcagi\SaglikOcagi\bin\Debug\SaglikOcagi.exe.config
+c:\users\mustafa\documents\visual studio 2015\Projects\SaglikOcagi\SaglikOcagi\bin\Debug\SaglikOcagi.exe
+c:\users\mustafa\documents\visual studio 2015\Projects\SaglikOcagi\SaglikOcagi\bin\Debug\SaglikOcagi.pdb
+c:\users\mustafa\documents\visual studio 2015\Projects\SaglikOcagi\SaglikOcagi\obj\Debug\SaglikOcagi.csprojResolveAssemblyReference.cache
+c:\users\mustafa\documents\visual studio 2015\Projects\SaglikOcagi\SaglikOcagi\obj\Debug\SaglikOcagi.Login.resources
+c:\users\mustafa\documents\visual studio 2015\Projects\SaglikOcagi\SaglikOcagi\obj\Debug\SaglikOcagi.Properties.Resources.resources
+c:\users\mustafa\documents\visual studio 2015\Projects\SaglikOcagi\SaglikOcagi\obj\Debug\SaglikOcagi.csproj.GenerateResource.Cache
+c:\users\mustafa\documents\visual studio 2015\Projects\SaglikOcagi\SaglikOcagi\obj\Debug\SaglikOcagi.exe
+c:\users\mustafa\documents\visual studio 2015\Projects\SaglikOcagi\SaglikOcagi\obj\Debug\SaglikOcagi.pdb
+C:\Users\Mustafa\documents\visual studio 2015\Projects\SaglikOcagi\SaglikOcagi\obj\Debug\SaglikOcagi.AnaForm.resources
+C:\Users\Mustafa\documents\visual studio 2015\Projects\SaglikOcagi\SaglikOcagi\obj\Debug\SaglikOcagi.poliklinik_giris.resources
+C:\Users\Mustafa\documents\visual studio 2015\Projects\SaglikOcagi\SaglikOcagi\obj\Debug\SaglikOcagi.poliklinik.resources
+C:\Users\Mustafa\documents\visual studio 2015\Projects\SaglikOcagi\SaglikOcagi\obj\Debug\SaglikOcagi.kullanici_tanitma.resources
+C:\Users\Mustafa\documents\visual studio 2015\Projects\SaglikOcagi\SaglikOcagi\obj\Debug\SaglikOcagi.kullanici.resources
+C:\Users\Mustafa\documents\visual studio 2015\Projects\SaglikOcagi\SaglikOcagi\obj\Debug\SaglikOcagi.HastaIslemleri.resources
+C:\Users\Mustafa\documents\visual studio 2015\Projects\SaglikOcagi\SaglikOcagi\obj\Debug\SaglikOcagi.HastaBilgileri.resources
+C:\Users\Mustafa\documents\visual studio 2015\Projects\SaglikOcagi\SaglikOcagi\obj\Debug\SaglikOcagi.DosyaNoKullaniciBulma.resources
+C:\Users\Mustafa\documents\visual studio 2015\Projects\SaglikOcagi\SaglikOcagi\obj\Debug\SaglikOcagi.TaburcuEkrani.resources
+C:\Users\Mustafa\documents\visual studio 2015\Projects\SaglikOcagi\SaglikOcagi\obj\Debug\SaglikOcagi.Rapor.resources
+C:\Users\Mustafa\Documents\Visual Studio 2015\Projects\SaglikOcagiv2\SaglikOcagi\obj\Debug\SaglikOcagi.csprojResolveAssemblyReference.cache
+C:\Users\Mustafa\Documents\Visual Studio 2015\Projects\SaglikOcagiv2\SaglikOcagi\obj\Debug\SaglikOcagi.AnaForm.resources
+C:\Users\Mustafa\Documents\Visual Studio 2015\Projects\SaglikOcagiv2\SaglikOcagi\obj\Debug\SaglikOcagi.DosyaNoKullaniciBulma.resources
+C:\Users\Mustafa\Documents\Visual Studio 2015\Projects\SaglikOcagiv2\SaglikOcagi\obj\Debug\SaglikOcagi.HastaBilgileri.resources
+C:\Users\Mustafa\Documents\Visual Studio 2015\Projects\SaglikOcagiv2\SaglikOcagi\obj\Debug\SaglikOcagi.HastaIslemleri.resources
+C:\Users\Mustafa\Documents\Visual Studio 2015\Projects\SaglikOcagiv2\SaglikOcagi\obj\Debug\SaglikOcagi.kullanici_tanitma.resources
+C:\Users\Mustafa\Documents\Visual Studio 2015\Projects\SaglikOcagiv2\SaglikOcagi\obj\Debug\SaglikOcagi.kullanici.resources
+C:\Users\Mustafa\Documents\Visual Studio 2015\Projects\SaglikOcagiv2\SaglikOcagi\obj\Debug\SaglikOcagi.Login.resources
+C:\Users\Mustafa\Documents\Visual Studio 2015\Projects\SaglikOcagiv2\SaglikOcagi\obj\Debug\SaglikOcagi.poliklinik.resources
+C:\Users\Mustafa\Documents\Visual Studio 2015\Projects\SaglikOcagiv2\SaglikOcagi\obj\Debug\SaglikOcagi.poliklinik_giris.resources
+C:\Users\Mustafa\Documents\Visual Studio 2015\Projects\SaglikOcagiv2\SaglikOcagi\obj\Debug\SaglikOcagi.Properties.Resources.resources
+C:\Users\Mustafa\Documents\Visual Studio 2015\Projects\SaglikOcagiv2\SaglikOcagi\obj\Debug\SaglikOcagi.Rapor.resources
+C:\Users\Mustafa\Documents\Visual Studio 2015\Projects\SaglikOcagiv2\SaglikOcagi\obj\Debug\SaglikOcagi.TaburcuEkrani.resources
+C:\Users\Mustafa\Documents\Visual Studio 2015\Projects\SaglikOcagiv2\SaglikOcagi\obj\Debug\SaglikOcagi.csproj.GenerateResource.Cache
+C:\Users\Mustafa\Documents\Visual Studio 2015\Projects\SaglikOcagiv2\SaglikOcagi\obj\Debug\SaglikOcagi.exe
+C:\Users\Mustafa\Documents\Visual Studio 2015\Projects\SaglikOcagiv2\SaglikOcagi\obj\Debug\SaglikOcagi.pdb
+C:\Users\Mustafa\Documents\Visual Studio 2015\Projects\SaglikOcagiv2\SaglikOcagi\bin\Debug\SaglikOcagi.exe.config
+C:\Users\Mustafa\Documents\Visual Studio 2015\Projects\SaglikOcagiv2\SaglikOcagi\bin\Debug\SaglikOcagi.exe
+C:\Users\Mustafa\Documents\Visual Studio 2015\Projects\SaglikOcagiv2\SaglikOcagi\bin\Debug\SaglikOcagi.pdb
+C:\Users\Mustafa\Documents\Visual Studio 2015\Projects\SaglikOcagiv2\SaglikOcagi\bin\Debug\EntityFramework.dll
+C:\Users\Mustafa\Documents\Visual Studio 2015\Projects\SaglikOcagiv2\SaglikOcagi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mustafa\Documents\Visual Studio 2015\Projects\SaglikOcagiv2\SaglikOcagi\bin\Debug\EntityFramework.xml
+C:\Users\Mustafa\Documents\Visual Studio 2015\Projects\SaglikOcagiv2\SaglikOcagi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\musta\Desktop\SaglikOcagiv2\SaglikOcagi\bin\Debug\SaglikOcagi.exe.config
+C:\Users\musta\Desktop\SaglikOcagiv2\SaglikOcagi\bin\Debug\SaglikOcagi.exe
+C:\Users\musta\Desktop\SaglikOcagiv2\SaglikOcagi\bin\Debug\SaglikOcagi.pdb
+C:\Users\musta\Desktop\SaglikOcagiv2\SaglikOcagi\bin\Debug\EntityFramework.dll
+C:\Users\musta\Desktop\SaglikOcagiv2\SaglikOcagi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\musta\Desktop\SaglikOcagiv2\SaglikOcagi\bin\Debug\EntityFramework.xml
+C:\Users\musta\Desktop\SaglikOcagiv2\SaglikOcagi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\musta\Desktop\SaglikOcagiv2\SaglikOcagi\obj\Debug\SaglikOcagi.csprojResolveAssemblyReference.cache
+C:\Users\musta\Desktop\SaglikOcagiv2\SaglikOcagi\obj\Debug\SaglikOcagi.AnaForm.resources
+C:\Users\musta\Desktop\SaglikOcagiv2\SaglikOcagi\obj\Debug\SaglikOcagi.DosyaNoKullaniciBulma.resources
+C:\Users\musta\Desktop\SaglikOcagiv2\SaglikOcagi\obj\Debug\SaglikOcagi.HastaBilgileri.resources
+C:\Users\musta\Desktop\SaglikOcagiv2\SaglikOcagi\obj\Debug\SaglikOcagi.HastaIslemleri.resources
+C:\Users\musta\Desktop\SaglikOcagiv2\SaglikOcagi\obj\Debug\SaglikOcagi.kullanici.resources
+C:\Users\musta\Desktop\SaglikOcagiv2\SaglikOcagi\obj\Debug\SaglikOcagi.kullanici_tanitma.resources
+C:\Users\musta\Desktop\SaglikOcagiv2\SaglikOcagi\obj\Debug\SaglikOcagi.Login.resources
+C:\Users\musta\Desktop\SaglikOcagiv2\SaglikOcagi\obj\Debug\SaglikOcagi.poliklinik.resources
+C:\Users\musta\Desktop\SaglikOcagiv2\SaglikOcagi\obj\Debug\SaglikOcagi.poliklinik_giris.resources
+C:\Users\musta\Desktop\SaglikOcagiv2\SaglikOcagi\obj\Debug\SaglikOcagi.Properties.Resources.resources
+C:\Users\musta\Desktop\SaglikOcagiv2\SaglikOcagi\obj\Debug\SaglikOcagi.Rapor.resources
+C:\Users\musta\Desktop\SaglikOcagiv2\SaglikOcagi\obj\Debug\SaglikOcagi.TaburcuEkrani.resources
+C:\Users\musta\Desktop\SaglikOcagiv2\SaglikOcagi\obj\Debug\SaglikOcagi.csproj.GenerateResource.Cache
+C:\Users\musta\Desktop\SaglikOcagiv2\SaglikOcagi\obj\Debug\SaglikOcagi.csproj.CoreCompileInputs.cache
+C:\Users\musta\Desktop\SaglikOcagiv2\SaglikOcagi\obj\Debug\SaglikOcagi.exe
+C:\Users\musta\Desktop\SaglikOcagiv2\SaglikOcagi\obj\Debug\SaglikOcagi.pdb
